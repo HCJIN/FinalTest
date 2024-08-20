@@ -1,2 +1,4 @@
-package com.green.FinalTest;public class LdhVO {
+package com.green.FinalTest;
+
+public class LdhVO {
 }
