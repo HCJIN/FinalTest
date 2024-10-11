@@ -7,10 +7,10 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href=""><br /><sub><b>FE 팀장 : 황찬진 </b></sub></a><br /></td>
-      <td align="center"><a href=""><br /><sub><b>FE 팀원 : 이동희</b></sub></a><br /></td>
-      <td align="center"><a href=""><br /><sub><b>FE 팀원 : 정보현</b></sub></a><br /></td>
-      <td align="center"><a href=""><br /><sub><b>FE 팀원 : 전하빈</b></sub></a><br /></td>
+      <td align="center"><a href=""><br /><sub><b>팀장 : 황찬진 </b></sub></a><br /></td>
+      <td align="center"><a href=""><br /><sub><b>팀원 : 이동희</b></sub></a><br /></td>
+      <td align="center"><a href=""><br /><sub><b>팀원 : 정보현</b></sub></a><br /></td>
+      <td align="center"><a href=""><br /><sub><b>팀원 : 전하빈</b></sub></a><br /></td>
   </tbody>
 </table>
 
