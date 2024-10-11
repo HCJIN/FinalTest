@@ -7,10 +7,17 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/HCJIN">팀장 : 황찬진</a></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/HCJIN">황찬진</a></td>
       <td align="center">팀원 : 이동희</td>
       <td align="center">팀원 : 정보현</td>
       <td align="center">팀원 : 전하빈</td>
+    </tr>
   </tbody>
 </table>
 
