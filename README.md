@@ -15,7 +15,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/HCJIN">@HCJIN</a>
-        황찬진</td>
+      </br>황찬진</td>
       <td align="center">이동희</td>
       <td align="center">정보현</td>
       <td align="center">전하빈</td>
