@@ -35,7 +35,6 @@
 
 
 ### 🖥기술 스택
-#####플랫폼&언어
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![MARIADB](https://img.shields.io/badge/MARIADB-003545?style=flat-square&logo=MARIADB&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-621773?style=flat-square&logo=MyBatis&logoColor=white)
@@ -47,8 +46,7 @@
 ![css3](https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![kakao](https://img.shields.io/badge/kakaoAPI-FFCD00?style=flat-square&logo=kakao&logoColor=white)
 ![naver](https://img.shields.io/badge/naverAPI-03C75A?style=flat-square&logo=naver&logoColor=white)
-##### 툴
 ![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HCJIN/FinalTest&layout=compact)](https://github.com/HCJIN/FinalTest/github-readme-stats)
