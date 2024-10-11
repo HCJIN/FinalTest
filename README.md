@@ -15,8 +15,8 @@
     <tr>
       <td align="center">
         <a href="https://github.com/HCJIN">
-          <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-          
-          badge&logo=GitHub&logoColor=white"/></a>
+          ![github](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
+          </a>
         황찬진</td>
       <td align="center">이동희</td>
       <td align="center">정보현</td>
