@@ -7,10 +7,12 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/HCJIN">팀장 : 황찬진</a></td>
-      <td align="center">팀원 : 이동희</td>
-      <td align="center">팀원 : 정보현</td>
-      <td align="center">팀원 : 전하빈</td>
+      | 팀원 |
+      |---|
+      | 팀장 : [황찬진](https://github.com/HCJIN) |
+      | 팀원 : 이동희 |
+      | 팀원 : 정보현 |
+      | 팀원 : 전하빈 |
   </tbody>
 </table>
 
