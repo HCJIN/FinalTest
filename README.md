@@ -14,11 +14,21 @@
     </tr>
     <tr>
       <td align="center">
+        황찬진</br>
         <a href="https://github.com/HCJIN">@HCJIN</a>
-      </br>황찬진</td>
-      <td align="center">이동희</td>
-      <td align="center">정보현</td>
-      <td align="center">전하빈</td>
+      </td>
+      <td align="center">
+        이동희</br>
+        <a href="https://github.com/dlfjs4585">@dlfjs4585</a>
+      </td>
+      <td align="center">
+        정보현</br>
+        <a href="https://github.com/bohyeonjeong50">@bohyeonjeong50</a>
+      </td>
+      <td align="center">
+        전하빈</br>
+        <a href="https://github.com/kong2bine">@kong2bine</a>
+      </td>
     </tr>
   </tbody>
 </table>
