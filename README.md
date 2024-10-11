@@ -7,8 +7,11 @@
 
 
 ### 🖥개발 환경 & 요구조건
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
+![MARIADB](https://img.shields.io/badge/MARIADB-003545?style=flat&logo=MARIADB&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-6FF7800?style=flat&logo=JAVA&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![MARIADB](https://img.shields.io/badge/MARIADB-4479A1?style=flat&logo=MARIADB&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+![html5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)
