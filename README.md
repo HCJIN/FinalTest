@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto)
-#팀 도와조_울산메디컬센터
+# 팀 도와조_울산메디컬센터
 
 ### 📄프로젝트 소개
 
