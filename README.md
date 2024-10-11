@@ -14,9 +14,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/HCJIN">
-          ![github](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
-          </a>
+        <a href="https://github.com/HCJIN">@HCJIN</a>
         황찬진</td>
       <td align="center">이동희</td>
       <td align="center">정보현</td>
