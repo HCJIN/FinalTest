@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=병원제품%20수주%20및%20발주%20프로그램&color=auto)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto)
 
 ### 📄프로젝트 소개
 
