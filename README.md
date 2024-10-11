@@ -47,6 +47,6 @@
 ![kakao](https://img.shields.io/badge/kakaoAPI-FFCD00?style=flat-square&logo=kakao&logoColor=white)
 ![naver](https://img.shields.io/badge/naverAPI-03C75A?style=flat-square&logo=naver&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)
-![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-326CAC?style=flat-square&logo=VisualStudioCode&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HCJIN/FinalTest&layout=compact)](https://github.com/HCJIN/FinalTest/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HCJIN/H_Hospital&layout=compact)](https://github.com/HCJIN/FinalTest/github-readme-stats)
