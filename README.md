@@ -9,6 +9,7 @@
 ### 🖥개발 환경 & 요구조건
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
 ![MARIADB](https://img.shields.io/badge/MARIADB-003545?style=flat&logo=MARIADB&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-621773?style=flat&logo=MyBatis&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-DE3723?style=flat&logo=JAVA&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
